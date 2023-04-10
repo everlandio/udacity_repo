@@ -4,3 +4,4 @@ git status
 git add 
 git commit
 git push
+text to test
